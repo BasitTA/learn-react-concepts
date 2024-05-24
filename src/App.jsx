@@ -1,11 +1,11 @@
 import './App.css'
-import React from './react-concepts/React'
+import Javascript from './js-concepts/Javascript'
 
 function App() {
 
   return (
     <>
-      <React/>
+      <Javascript/>
     </>
   )
 }
